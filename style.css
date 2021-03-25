@@ -1,0 +1,29 @@
+body{
+text-align: center;
+background-color: cyan;
+}
+
+.heading{
+height: 75px;
+width: 750px;
+font-size: 25px;
+}
+
+#logo{
+width: 40px;
+height: 50px;
+border-radius: 100%;
+}
+
+.j{
+box-shadow: 5px 5px 20px black;
+width: 600px
+}
+
+.a{
+color: rgb(255, 255, 255);
+}
+
+#N{
+visibility: hidden;
+}
